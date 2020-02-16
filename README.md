@@ -1,1 +1,2 @@
-# car-stage-3
+# synchronousBallMovement
+Ball moving synchronously
